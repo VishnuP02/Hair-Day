@@ -9,3 +9,5 @@ The objective is to create an inviting and stylish landing page that reflects th
 - Interactive Elements: Implement interactive elements like hover effects, buttons, or animations to enhance user experience.
 - Stylish Layout: Apply CSS styles creatively to achieve a chic and modern look for the landing page.
 - Accessibility: Prioritize accessibility considerations by using semantic HTML and optimizing for screen readers.
+
+<img width="1440" alt="Hair Day" src="https://github.com/VishnuP02/Hair-Day/assets/135986853/293473c6-a5c4-4921-b70d-c0e895d7745e">
